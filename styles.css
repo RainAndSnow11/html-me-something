@@ -1,0 +1,65 @@
+nav ul {
+	text-align: center;
+}
+
+nav ul li {
+	display: inline-block;
+  background-color: grey;
+  padding: 10px;
+  margin-right: 25px;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 20px;
+}
+
+
+
+body {
+  background-color: black;
+  color: white;
+  margin: 25px 50px;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 26px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 22px;
+  text-decoration: underline;
+}
+
+h4 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+
+}
+
+p {
+
+font-family: Verdana, Geneva, sans-serif;
+
+}
+
+.indent-paragraph{
+  padding: 0px 25px 25px;
+}
+
+.indent-paragraph-no-bottom-space{
+  padding: 0px 25px
+}
+
+#italic{
+  font-style: italic;
+}
+
+ul {
+  font-family: Verdana, Geneva, sans-serif;
+}
